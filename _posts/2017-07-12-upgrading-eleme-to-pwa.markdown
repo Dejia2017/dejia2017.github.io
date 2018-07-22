@@ -1,18 +1,20 @@
 ---
 layout:       post
-title:        "饿了么的 PWA 升级实践"
-subtitle:     "Upgrading Ele.me to Progressive Web App"
-date:         2017-07-12 12:00:00
-author:       "Hux"
+title:        "《Java并发编程的艺术》读书笔记"
+subtitle:     "note"
+date:         2018-07-22 12:00:00
+author:       "Dejia"
 header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
 header-mask:  0.3
 catalog:      true
 multilingual: true
 tags:
-    - 前端开发
-    - JavaScript
-    - PWA
+    - 后端
+    - Java
+    - 读书笔记
 ---
+# 《Java并发编程的艺术》读书笔记
+这部分是读书笔记的具体内容
 
 <!-- Chinese Version -->
 <div class="zh post-container">
