@@ -1,6 +1,4 @@
-# Java服务端与C++客户端socket通信要点简析
-
-公司项目中有java服务端和C++客户端通信的需求。跨语言情况下有一些比较特殊的点需要处理，在查阅了一些资料并实践之后，收发双方实现了正确通信。
+> 公司项目中有java服务端和C++客户端通信的需求。跨语言情况下有一些比较特殊的点需要处理，在查阅了一些资料并实践之后，收发双方实现了正确通信。
 
 socket通信可以使用字符流，也可以使用字节流的形式。统一使用字节流可以简化模型，字节对于语言而言是一视同仁的。我总结的几个方面：
 
@@ -75,6 +73,6 @@ socket开发框架的细节将作为下一篇博客的主题。
 
 ## reference：
 
-[1] https://www.cnblogs.com/yuanyq/p/java_unsigned_types.html 无符号和字节序
+[1]: https://www.cnblogs.com/yuanyq/p/java_unsigned_types.html 无符号和字节序
 
-[2] https://blog.csdn.net/jiangxinyu/article/details/8211612 java和c通讯要点解析
+[2]: https://blog.csdn.net/jiangxinyu/article/details/8211612 java和c通讯要点解析
