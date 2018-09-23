@@ -73,6 +73,6 @@ socket开发框架的细节将作为下一篇博客的主题。
 
 ## reference：
 
-[1]: https://www.cnblogs.com/yuanyq/p/java_unsigned_types.html 无符号和字节序
+[1] https://www.cnblogs.com/yuanyq/p/java_unsigned_types.html 无符号和字节序
 
-[2]: https://blog.csdn.net/jiangxinyu/article/details/8211612 java和c通讯要点解析
+[2] https://blog.csdn.net/jiangxinyu/article/details/8211612 java和c通讯要点解析
