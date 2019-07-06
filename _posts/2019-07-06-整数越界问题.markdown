@@ -1,0 +1,6 @@
+# 整数越界问题
+
+在做二分查找的题目时，遇到过两次 time limited 的问题。在题目的评论区看到了问题的原因：
+`"when both end and start are big (near Integer.MAX_VALUE), with (start + end) you actually got a minus integer. you will end up in infinite loop."`
+
+意思是两个接近整数最大值的数相加超过了int的上限，实际上只能得到一个比期望更小的整数，因此陷入了死循环。解决的办法是优化代码的写法。将 `int mid = (left + right) / 2` 改为 `int mid = left + (right - left) / 2` 就不会产生上述问题了。

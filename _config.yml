@@ -1,9 +1,9 @@
 # Site settings
-title: 孟德的博客
-SEOTitle: 孟德佳的博客 | Dejia Blog
+title: 孟德传习录
+SEOTitle: 孟德传习录 | Dejia Blog
 header-img: img/home-bg.jpg
 email: mengdejia2014@gmail.com
-description: "关于后端、体育和金融，还有一些随笔 | Dejia Meng，Software Engineer，Investor and investor | 这里是 @孟德佳 的个人博客，记录技术与生活。"
+description: "博学之，审问之，慎思之，明辨之，笃行之 | Dejia Meng，Software Engineer，Investor | 这里是 @孟德佳 的个人博客，记录技术与生活。"
 keyword: "孟德佳, 孟德, Dejia Meng, 孟德佳的博客, Dejia Blog, 博客, 个人网站, 互联网, Web, 架构, 后端"
 url: "http://mengdejia.cn"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -67,7 +67,7 @@ ga_domain: mengdejia.cn
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "你灵魂的欲望，是你命运的先知"
+sidebar-about-description: "灵魂的欲望，是命运的先知"
 sidebar-avatar: /img/avatar-mengdejia.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -87,13 +87,11 @@ service-worker: true
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
+        title: "友情链接测试 - 百度",
+        href: "http://www.qq.com/"
     }
+    # ,{
+    #     title: "前端外刊评论",
+    #     href: "http://qianduan.guru/"
+    # }
 ]
