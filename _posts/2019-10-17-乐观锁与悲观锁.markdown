@@ -1,0 +1,9 @@
+mysql悲观锁
+
+行锁（索引） 表锁
+
+乐观锁
+
+版本号 +1 解决超卖问题
+
+https://crossoverjie.top/%2F2017%2F07%2F09%2FSSM15%2F
